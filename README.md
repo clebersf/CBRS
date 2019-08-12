@@ -43,6 +43,13 @@ Criar software capaz de trocar informações com o banco de dados para a realiza
 4 - Testes e simulações do processo - Previsão de conclusão 21/08/19
 Simular a escolha de rota de acordo com situações reais do processo e comparar as rotas escolhidas com as outras opções de rotas afim de concluir se realmente a melhor rotas está sendo escolhida.
 
+Exemplo:
+
+Da origem A até destino B temos 10 opções de rotas:
+
+O algoritmo deve escolher a melhor opção de acordo com as heurísticas definidas e parâmetros de priorização da escolha da rota;
+Após a escolha vou comparar a rota escolhida com as demais rotas e verificar se o algoritmo escolheu a melhor rota, pontuando cada uma das rotas.
+
 5 - Rascunho do artigo - Previsão de conclusão 26/08/19
 Ao longo das metas aqui citadas elaborar um rascunho de artigo.
 
